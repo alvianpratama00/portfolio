@@ -39,11 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-email: "alvianpratama.work@gmail.com"
-github: alvianpratama00
-#  medium: yourname
+  email: "alvianpratama.work@gmail.com"
+#  facebook: deanattali
+  github: alvianpratama00
+#  twitter: daattali
 #  reddit: yourname
-linkedin: linkedin.com/in/alvian-pratama-7691601b0
+  linkedin: linkedin.com/in/alvian-pratama-7691601b0
 #  xing: yourname
 
 #  mastodon: instance.url/@username
@@ -82,7 +83,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "alvian, pratama,alvian pratama,alvianpratama"
 
 # --- Colours / background image --- #
 
