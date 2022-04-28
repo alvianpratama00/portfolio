@@ -39,7 +39,7 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 
 ## Technical Expertise 
 ### Programming Language
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" width="200" height="200" />  <img src = "https://cdn.worldvectorlogo.com/logos/java.svg" width="200" height="200" /> <img src = "https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="200" height="200" /> 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" width="200" height="200" />  <img src = "https://www.svgrepo.com/show/303388/java-4-logo.svg" width="200" height="200" /> <img src = "https://static.cdnlogo.com/logos/m/10/mysql.svg" width="200" height="200" /> 
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" width="200" height="200" /> <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" width="200" height="200" /> <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="200" height="200" />
 
