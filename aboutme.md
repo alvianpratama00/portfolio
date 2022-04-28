@@ -46,7 +46,7 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 <br /> 
 
 ### Framework
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/768px-TensorFlow_logo.svg.png" width="200" height="200" />
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" width="200" height="200" />
 
 <br /> 
 
