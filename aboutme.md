@@ -5,11 +5,11 @@ subtitle: Some interesting facts about me
 ---
 
 # Alvian Pratama
-A hardworking and motivated student that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
+A hardworking and motivated student that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br /> <br />
 
 
 
-## Experiences <br />
+## Experiences <br /> <br />
 
 
 
