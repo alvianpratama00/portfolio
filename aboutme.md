@@ -39,6 +39,7 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 
 ## Techincal Expertise <br />
 ### Programming Language
-![Python](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
+![Python](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg) 
+![Java](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg)
 
 
