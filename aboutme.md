@@ -39,7 +39,6 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 
 ## Technical Expertise 
 ### Programming Language
-<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="200" height="200" /> 
-<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="200" height="200" /> 
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="200" height="200" />  <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="200" height="200" /> 
 
 
