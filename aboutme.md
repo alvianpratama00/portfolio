@@ -9,7 +9,7 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 
 
 
-## Experiences <br /> <br />
+## Experiences <br /> 
 
 
 
