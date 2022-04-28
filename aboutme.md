@@ -37,3 +37,8 @@ PowerPoint), basics statistics (correlation test, normalization test, regression
 
 Relevant coursework: Statistics, Data Mining and Forecasting, Project Management, Principle of Data Analytics <br /> <br /> <br />
 
+## Techincal Expertise <br />
+### Programming Language
+![Python](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
+
+
