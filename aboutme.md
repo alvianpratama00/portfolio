@@ -31,7 +31,7 @@ PowerPoint), basics statistics (correlation test, normalization test, regression
 
 <br /> <br /> 
 
-## Education <br /> 
+## Education 
 ### Bachelor of Information System
 #### Universitas Multimedia Nusantara | 2018-present
 
