@@ -29,4 +29,6 @@ PowerPoint), basics statistics (correlation test, normalization test, regression
 - Developed a systematic approach to organize and document the requirements of system
 - Improved process efficiency by standardizing end to end project management workflow
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br /> <br /> 
+
+## Education <br /> 
