@@ -39,7 +39,7 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 
 ## Technical Expertise 
 ### Programming Language
-<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="200" height="200" />  <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="200" height="200" /> <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="200" height="200" /> 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" width="200" height="200" />  <img src = "https://cdn.worldvectorlogo.com/logos/java.svg" width="200" height="200" /> <img src = "https://cdn.worldvectorlogo.com/logos/mysql-2.svg" width="200" height="200" /> 
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" width="200" height="200" /> <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" width="200" height="200" /> <img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="200" height="200" />
 
@@ -53,5 +53,5 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 ### Tools
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/08/Microsoft_Word_logo_%282013-2019%29.png" width="200" height="200" />
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="200" height="200" />
+<img src = "https://mikaylabinar.com/wp-content/uploads/2021/11/Tableau-Logo-014df71b.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="200" height="200" />
 
