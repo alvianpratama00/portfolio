@@ -35,6 +35,5 @@ PowerPoint), basics statistics (correlation test, normalization test, regression
 ### Bachelor of Information System
 #### Universitas Multimedia Nusantara | 2018-present
 
-Relevant coursework: Statistics, Data Mining and
-Forecasting, Project Management, Principle of Data Analytics
+Relevant coursework: Statistics, Data Mining and Forecasting, Project Management, Principle of Data Analytics <br /> <br /> <br />
 
