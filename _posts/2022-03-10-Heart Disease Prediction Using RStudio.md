@@ -57,9 +57,9 @@ mod
 
 Here is the model which has been created. 
 
-![Model](/assets/model_R.jpg)
+![Model](/assets/img/model_R.jpg)
 ![](/assets/img/model_R.jpg)
-<img src = "/assets/img/model_R.jpg" />
+<img src = "/assets/img/model_R.jpg" alt="">
 ![Image description](/assets/img/model_R.jpg)
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
