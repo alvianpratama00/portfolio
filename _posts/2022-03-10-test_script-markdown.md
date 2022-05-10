@@ -85,6 +85,6 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
 
-## Repository Link
-[Repository Link](https://github.com/alvianpratama00/HeartDiseasePrediction_UsingRStudio)
+## Repository Link : 
+[Heart Disease Prediction Using RStudio](https://github.com/alvianpratama00/HeartDiseasePrediction_UsingRStudio)
 
