@@ -57,7 +57,7 @@ Here is the model which has been created.
 
 
 <img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.png" />
-![Model](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.png)
+![Model](/assets/img/model_R.jpg)
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
@@ -79,11 +79,11 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ## Confusion Matrix
 <img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix.png" />
-![ConfusionMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix.png)
+![ConfusionMatrix](/assets/img/ConfMatrix.jpg)
 
 ## Accuracy
 <img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.png" />
-![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.png)
+![ConfusionMatrix](/assets/img/Accuracy.jpg)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
