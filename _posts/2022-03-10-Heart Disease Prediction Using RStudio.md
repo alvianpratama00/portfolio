@@ -57,9 +57,9 @@ mod
 
 Here is the model which has been created. 
 
-![Model](./assets/img/model_R.jpg)
+![Model](/assets/img/model_R.jpg)
 
-<img src = "./assets/img/Accuracy.jpg" />
+<img src = "/assets/img/Accuracy.jpg" />
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
@@ -83,11 +83,11 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ## Confusion Matrix
 
-![ConfusionMatrix](./assets/img/ConfMatrix.jpg)
+![ConfusionMatrix](/assets/img/ConfMatrix.jpg)
 
 ## Accuracy
 
-![ConfusionMatrix](./assets/img/Accuracy.jpg)
+![Accuracy](/assets/img/Accuracy.jpg)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
