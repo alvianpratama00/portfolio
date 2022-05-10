@@ -82,7 +82,7 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ## Confusion Matrix
 
-![ConfusionMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix_Black.png?raw=true)
+![ConfusionMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix.jpg?raw=true)
 
 ## Accuracy
 
