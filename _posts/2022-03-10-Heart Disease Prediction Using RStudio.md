@@ -58,6 +58,8 @@ Here is the model which has been created.
 ![Installation steps](/assets/img/install-steps.gif)
 ![Model](/assets/img/model_R.jpg)
 
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" width="200" height="200" />
+
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
 
