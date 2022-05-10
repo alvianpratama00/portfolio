@@ -27,8 +27,8 @@ After importing the packages, we need to import the data that will be used for a
 ## Import the data
 
 ~~~
-set.seed(1234)
 heart <- read.csv(file.choose(),sep=',')
+set.seed(1234)
 heart$target <- as.factor(heart$target)
 vars <- c("trestbps", "chol","thalach")
 str(heart[, c(vars, "target")])
