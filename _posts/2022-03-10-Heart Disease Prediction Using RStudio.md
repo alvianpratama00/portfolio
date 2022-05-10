@@ -58,7 +58,7 @@ mod
 Here is the model which has been created. 
 
 ![Model](/assets/img/model_R.jpg)
-
+![FOTO](/assets/img/model_R.jpg)
 <img src = "/assets/img/model_R.jpg" />
 
 
