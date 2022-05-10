@@ -57,7 +57,7 @@ mod
 
 Here is the model which has been created. 
 
-![Model](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.jpg?raw=true)
+![Model](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.png?raw=true)
 
 
 
