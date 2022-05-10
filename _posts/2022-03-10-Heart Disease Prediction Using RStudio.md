@@ -55,10 +55,9 @@ mod
 
 Here is the model which has been created. 
 
-![Installation steps](/assets/img/install-steps.gif)
-![Model](/assets/img/model_R.jpg)
+![Model](/assets/img/model_R.JPG)
 
-<img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.jpg" />
+<img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.JPG" />
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
