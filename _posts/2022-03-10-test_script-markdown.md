@@ -75,7 +75,11 @@ error_rate
 ~~~
 
 Here are the confusion matrix and the accuracy from the model that has been created.
+
+## Confusion Matrix
 ![ConfusionMatrix](/assets/img/ConfMatrix.png)
+
+## Accuracy
 ![Accuracy](/assets/img/Accuracy.png)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
