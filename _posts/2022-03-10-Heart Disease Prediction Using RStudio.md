@@ -53,11 +53,13 @@ mod <- C5.0(x = train_data[,vars],y = train_data$target)
 mod
 ~~~
 
+
+
 Here is the model which has been created. 
 
-![Model](/assets/img/model_R.jpg)
+![Model](./assets/img/model_R.jpg)
 
-<img src = "/assets/img/Accuracy.jpg" />
+<img src = "./assets/img/Accuracy.jpg" />
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
@@ -75,15 +77,17 @@ error_rate<-100-akurasi
 error_rate
 ~~~
 
+
+
 Here are the confusion matrix and the accuracy from the model that has been created.
 
 ## Confusion Matrix
 
-![ConfusionMatrix](/assets/img/ConfMatrix.jpg)
+![ConfusionMatrix](./assets/img/ConfMatrix.jpg)
 
 ## Accuracy
 
-![ConfusionMatrix](/assets/img/Accuracy.jpg)
+![ConfusionMatrix](./assets/img/Accuracy.jpg)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
