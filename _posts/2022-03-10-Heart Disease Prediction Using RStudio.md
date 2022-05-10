@@ -86,7 +86,7 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ## Accuracy
 
-![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.jpg?raw=true)
+![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.png?raw=true)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
