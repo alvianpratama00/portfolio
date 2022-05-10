@@ -55,7 +55,7 @@ mod
 
 Here is the model which has been created. 
 
-![Installation steps](assets/img/install-steps.gif)
+![Installation steps](/assets/img/install-steps.gif)
 ![Model](/assets/img/model_R.jpg)
 
 
