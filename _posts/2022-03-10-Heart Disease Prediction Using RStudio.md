@@ -57,7 +57,7 @@ mod
 
 Here is the model which has been created. 
 
-![Model](model_R.jpg)
+![Model](/assets/model_R.jpg)
 ![](/assets/img/model_R.jpg)
 <img src = "/assets/img/model_R.jpg" />
 ![Image description](/assets/img/model_R.jpg)
