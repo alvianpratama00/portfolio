@@ -35,3 +35,30 @@ require(caTools)
 
 After importing the packages, we need to import the data that will be used for analysis. We uses heart_dataset.csv which are contains many variables related to heart disease.
 
+## Import the data
+
+~~~
+heart <- read.csv(file.choose(),sep=',')
+~~~
+
+Once you have imporrted the data, split the data into train and test data
+
+~~~
+c𝑜𝑏𝑎 < − 𝑠𝑎𝑚𝑝𝑙𝑒(1: 𝑛𝑟𝑜𝑤(ℎ𝑒𝑎𝑟𝑡), 𝑠𝑖𝑧𝑒
+= 250 , 𝑟𝑒𝑝𝑙𝑎𝑐𝑒 = 𝑇𝑅𝑈𝐸)
+𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎 < − ℎ𝑒𝑎𝑟𝑡[ 𝑐𝑜𝑏𝑎,]
+𝑡𝑒𝑠𝑡_𝑑𝑎𝑡𝑎 < − ℎ𝑒𝑎𝑟𝑡[−𝑐𝑜𝑏𝑎,]
+~~~
+
+Then, create the model using C5.0 Algorithm
+
+~~~
+m𝑜𝑑 < − 𝐶5.0(𝑥 = 𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎[, 𝑣𝑎𝑟𝑠], 𝑦
+= 𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎$𝑡𝑎𝑟𝑔𝑒𝑡)
+~~~
+
+Here are the model which have been created 
+![Model](assets/img/model_R.png)
+
+
+
