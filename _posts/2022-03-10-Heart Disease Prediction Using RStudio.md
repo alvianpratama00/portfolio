@@ -53,7 +53,7 @@ mod <- C5.0(x = train_data[,vars],y = train_data$target)
 mod
 ~~~
 
-
+<br />
 
 Here is the model which has been created. 
 
@@ -77,7 +77,7 @@ error_rate<-100-akurasi
 error_rate
 ~~~
 
-
+<br />
 
 Here are the confusion matrix and the accuracy from the model that has been created.
 
