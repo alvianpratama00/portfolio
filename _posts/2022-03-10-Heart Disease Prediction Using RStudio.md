@@ -59,7 +59,7 @@ Here is the model which has been created.
 
 ![Model](/assets/img/model_R.jpg)
 
-<img src = "/assets/img/model_R.jpg" />
+<img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.jpg" />
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
