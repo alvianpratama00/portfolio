@@ -57,9 +57,8 @@ mod
 
 Here is the model which has been created. 
 
-![Model](/assets/img/model_R.jpg)
-![](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.jpg?raw=true)
-<img src = "https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.jpg">
+![Model](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/model_R.jpg?raw=true)
+
 
 
 After that, we need to validate the model to know to find out whether the model made is a good model or not.
@@ -83,11 +82,11 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ## Confusion Matrix
 
-![ConfusionMatrix](/assets/img/ConfMatrix.jpg)
+![ConfusionMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix.jpg?raw=true)
 
 ## Accuracy
 
-![Accuracy](/assets/img/Accuracy.jpg)
+![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.jpg?raw=true)
 
 As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
 with different levels, which tends to decrease the accuracy.
