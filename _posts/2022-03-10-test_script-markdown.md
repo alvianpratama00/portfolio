@@ -8,17 +8,6 @@ share-img: /assets/img/prediction.jpg
 tags: [R Language, Data Analytics]
 ---
 
- This project aims to detect "Heart Disease"
-by using the algorithm used in data mining. This project offers how to detect the disease 
-using the decision tree method in the form of C5.0 algorithm. 
-
-In this project, the variable used is a variable that denoted by “0” and “1”. “0” means no heart disease and “1” means to
-have a heart disease, which are categorized as categorical data and numerical data. In this project there are 3 independent variables such as heart rate, 
-blood pressure, and cholesterol level in the blood.
-
-This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
-with different levels, which tends to decrease the accuracy.
-
 In this article, I want to explore in the matter of predicting the heart disease using R Language. I want to know if there are variables 
 that are influencing heart disease conditions.  Therefore, I created a project in regards to predicting the heart disease using R Language.
 
@@ -38,27 +27,57 @@ After importing the packages, we need to import the data that will be used for a
 ## Import the data
 
 ~~~
+set.seed(1234)
 heart <- read.csv(file.choose(),sep=',')
+heart$target <- as.factor(heart$target)
+vars <- c("trestbps", "chol","thalach")
+str(heart[, c(vars, "target")])
 ~~~
 
-Once you have imporrted the data, split the data into train and test data
+Once you have imporrted the data, split the data into train and test data.
+
+## Split the data
 
 ~~~
-c𝑜𝑏𝑎 < − 𝑠𝑎𝑚𝑝𝑙𝑒(1: 𝑛𝑟𝑜𝑤(ℎ𝑒𝑎𝑟𝑡), 𝑠𝑖𝑧𝑒
-= 250 , 𝑟𝑒𝑝𝑙𝑎𝑐𝑒 = 𝑇𝑅𝑈𝐸)
-𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎 < − ℎ𝑒𝑎𝑟𝑡[ 𝑐𝑜𝑏𝑎,]
-𝑡𝑒𝑠𝑡_𝑑𝑎𝑡𝑎 < − ℎ𝑒𝑎𝑟𝑡[−𝑐𝑜𝑏𝑎,]
+coba <- sample(1:nrow(heart), size = 250 ,replace=TRUE)
+train_data <- heart[ coba,]
+test_data  <- heart[-coba,]
 ~~~
 
-Then, create the model using C5.0 Algorithm
+Then, create the model using C5.0 Algorithm.
+
+## Create the model
 
 ~~~
-m𝑜𝑑 < − 𝐶5.0(𝑥 = 𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎[, 𝑣𝑎𝑟𝑠], 𝑦
-= 𝑡𝑟𝑎𝑖𝑛_𝑑𝑎𝑡𝑎$𝑡𝑎𝑟𝑔𝑒𝑡)
+mod <- C5.0(x = train_data[,vars],y = train_data$target)
+mod
 ~~~
 
-Here are the model which have been created 
+Here is the model which has been created. 
 ![Model](assets/img/model_R.png)
+
+
+After that, we need to validate the model to know to find out whether the model made is a good model or not.
+
+## Validate the model
+
+~~~
+hasil<- predict(object=mod, newdata=test_data, type="class")
+table(hasil, test_data$target)
+conf_matrix<-table(hasil, test_data$target)
+conf_matrix
+akurasi<-round((conf_matrix[1,1]+conf_matrix[2,2])/nrow(test_data),2)*100
+akurasi
+error_rate<-100-akurasi
+error_rate
+~~~
+
+Here are the confusion matrix and the accuracy from the model that has been created.
+![ConfusionMatrix](assets/img/ConfMatrix.png)
+![Accuracy](assets/img/Accuracy.png)
+
+As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
+with different levels, which tends to decrease the accuracy.
 
 
 
