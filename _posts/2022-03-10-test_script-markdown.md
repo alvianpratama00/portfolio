@@ -54,6 +54,8 @@ mod
 ~~~
 
 Here is the model which has been created. 
+
+
 ![Model](/assets/img/model_R.png)
 
 
