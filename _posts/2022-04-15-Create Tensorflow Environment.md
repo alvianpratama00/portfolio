@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Create Tensorflow Environment
-subtitle: Create Tensorflow Environment in Jupyter Notebook
+title: Create Tensorflow Environment For Jupyter Notebook
+subtitle: Create Tensorflow Environment using Anaconda Prompt
 tags: [Python, Tensorflow, Jupyter Notebook]
 comments: true
 ---
