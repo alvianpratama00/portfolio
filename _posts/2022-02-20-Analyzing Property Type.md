@@ -3,7 +3,7 @@ layout: post
 title: Analyzing Property Using Machine Learning ALgorithm
 subtitle: Analyzing Property Using Jupyter Notebook
 cover-img: /assets/img/Property.png
-thumbnail-img: /assets/img/PropertyThumb.png
+thumbnail-img: /assets/img/Property_Thumb.png
 share-img: /assets/img/Property.png
 tags: [Python, Data Analytics, Jupyter Notebook]
 ---
