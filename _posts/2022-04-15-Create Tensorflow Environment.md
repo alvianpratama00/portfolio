@@ -6,7 +6,7 @@ tags: [Python, Tensorflow, Jupyter Notebook]
 comments: true
 ---
 
-This is a quick tutorial to show you how to create tensorflow environment in Jupyter Notebook.  I strongly encourage you to install Anaconda before creating the tensorflow environment.
+**This is a quick tutorial to show you how to create tensorflow environment in Jupyter Notebook.  I strongly encourage you to install Anaconda before creating the tensorflow environment.**
 
 First of all, open the Anaconda Prompt and run as administrator 
 ![Admin](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/RunAdmin.png?raw=true)
