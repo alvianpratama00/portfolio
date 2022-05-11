@@ -12,6 +12,20 @@ tags: [Python, Data Analytics, Jupyter Notebook]
 In this article, I will try to analyze the properties using 3 machine learning algorithms. This article will discuss the relationship between the facilities of a property
 that you want to offer to customers and discuss a system that will offer the most profitable property types using machine learning.
 
+First of all, we need to import the library and the dataset that will be used in this project.
+
+## Import the library and dataset
+~~~
+import pandas as pd
+import seaborn as sn
+import matplotlib.pyplot as plt
+~~~
+
+~~~
+data = pd.read_csv("Property_Sales_Canberra_2006-2019.csv")
+data
+~~~
+
 
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
