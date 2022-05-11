@@ -62,13 +62,3 @@ Here is the result if the kernel was installed correctly.
 
 {: .box-note}
 **Note:** This is a clean installation of Tensorflow in Jupyter Notebook. You will need to install various libraries such as : pandas, numpy, matplotlib, etc if you want to properly used the Tensorflow. 
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
