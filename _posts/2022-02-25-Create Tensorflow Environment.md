@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Create Tensorflow Environment
+subtitle: Create Tensorflow Environment in Jupyter Notebook
+tags: [Python, Tensorflow, Jupyter Notebook]
 comments: true
 ---
 
