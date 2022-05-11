@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Mining Using Twitter API
-tags: [Python, API, Jupyter Notebook]
+tags: [Twitter, Python, API, Jupyter Notebook]
 comments: true
 ---
 
