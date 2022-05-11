@@ -129,4 +129,22 @@ ann.fit(X_train, y_train)
 y_pred = ann.predict(X_test)
 ~~~
 
+After we created the model, we need to know whether the models are good or not. Therefore we created Confusion Matrix and Classification Report.
+Here are some of them :
+
+
+## Decision Tree
+![DecTree](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfAcc_DecTree.png?raw=true)
+
+## Naïve Bayes
+![NB](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfAcc_NaiveBayes.png?raw=true)
+
+## Artificial Neural Network 
+![ANN](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfAcc_ANN.png?raw=true)
+
+As we can see from the model, we can conclude that the best model that will be used for system that will offer the most profitable property types is Artificial Neural Network.
+That model produces 92% accuracy value, 82% recall value, 71% precision value and 76% f1-score value, which are better than the others.
+
+## Repository Link : 
+[Analyze Property Type](https://github.com/alvianpratama00/ClassifyingPropertyType_UsingJupyterNotebook)
 
