@@ -8,8 +8,8 @@ share-img: /assets/img/prediction.jpg
 tags: [R Language, Data Analytics]
 ---
 
-In this article, I want to explore in the matter of predicting the heart disease using R Language. I want to know if there are variables 
-that are influencing heart disease conditions.  Therefore, I created a project in regards to predicting the heart disease using R Language.
+**In this article, I want to explore in the matter of predicting the heart disease using R Language. I want to know if there are variables 
+that are influencing heart disease conditions.  Therefore, I created a project in regards to predicting the heart disease using R Language.**
 
 In this project, the first thing to do is prepare the library that are facilitating me to do the analysis.
 
@@ -88,8 +88,8 @@ Here are the confusion matrix and the accuracy from the model that has been crea
 
 ![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Accuracy.png?raw=true)
 
-As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
-with different levels, which tends to decrease the accuracy.
+**As you can see, This project resulting in an accuracy of 62% which is a fairly low level of accuracy. The accuracy is so small because it uses a categorical variables
+with different levels, which tends to decrease the accuracy.**
 
 ## Repository Link : 
 [Heart Disease Prediction Using RStudio](https://github.com/alvianpratama00/HeartDiseasePrediction_UsingRStudio)
