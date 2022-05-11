@@ -29,11 +29,104 @@ data
 Here is the dataset :
 ![Dataset](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Dataset.png?raw=true)
 
+After we import the dataset, we need to clean the data. Hera are a few codes to clean the data.
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Clean the data
+~~~
+clean_data = data.dropna(axis='rows')
+clean_data
+~~~
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Then, we analyze the data using descriptive statistics. There are two types of descriptive statistics, univariate, and multivariate.
+Here are the univariate statistics. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+## Univariate
+![Uni](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Univariate.png?raw=true)
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Here is the multivariate statistics.
+![Multi](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Multivariate.png?raw=true)
+
+As you can see from the multivariate, there is no strong correlation between the number of amenities such as bathrooms, bedrooms, parking spaces, and the price of a property. Therefore it can be concluded from the data collected that the facilities do not affect the selling price of the property
+
+<br />
+
+After that conclusion, we proceed to build the model. There is a model that we will create using 3 algorithms, namely Decision Tree, Naïve Bayes, and Artificial Neural Network (ANN). First of all, we need to split the data into training and testing models. 
+
+## Split the data
+~~~
+#Split the data into 70% data training and 30% data test
+data_modeling = clean_data[['bathrooms', 'bedrooms', 'parking', 'price', 'propertyType']]
+feature_cols = ['bathrooms', 'bedrooms', 'parking', 'price']
+# Features
+X = data_modeling [feature_cols] 
+
+# Target Variable
+y = data_modeling.propertyType 
+
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=1)
+~~~
+
+Then, we use feature scaling for some of the algorithms that will be used for balancing the data.
+
+## Feature Scaling
+~~~
+# Feature Scaling untuk Naïve Bayes dan Artificial Neural Network
+from sklearn.preprocessing import StandardScaler
+sc = StandardScaler()
+X_train = sc.fit_transform(X_train)
+X_test = sc.transform(X_test)
+~~~
+
+After all that process, finally we can create the model. Here are the models that we will create.
+
+## Decision Tree
+~~~
+from sklearn.tree import DecisionTreeClassifier 
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+
+#Create a Decision Tree Classifier
+clf = DecisionTreeClassifier(max_depth=8)
+
+#Train the model using the training sets
+clf = clf.fit(X_train,y_train)
+
+#Predict the response for test dataset
+y_pred = clf.predict(X_test)
+~~~
+
+
+## Naïve Bayes
+~~~
+from sklearn.naive_bayes import GaussianNB
+
+#Create a Gaussian Classifier
+gnb = GaussianNB()
+
+#Train the model using the training sets
+gnb.fit(X_train, y_train)
+
+#Predict the response for test dataset
+y_pred = gnb.predict(X_test)
+~~~
+
+## Artificial Neural Network 
+~~~
+import sklearn.neural_network
+
+# Create a model
+ann = sklearn.neural_network.MLPClassifier(hidden_layer_sizes=(100, ), activation='relu', solver='adam', 
+                                                 alpha=0.0001, batch_size='auto', learning_rate='constant', learning_rate_init=0.001, power_t=0.5, 
+                                                 max_iter=1000, shuffle=True, random_state=42, tol=0.0001, verbose=False, warm_start=False, momentum=0.9, 
+                                                 nesterovs_momentum=True, early_stopping=False, validation_fraction=0.1, beta_1=0.9, beta_2=0.999, epsilon=1e-08, 
+                                                 n_iter_no_change=10)
+# Train the model on the whole data set
+ann.fit(X_train, y_train)
+
+#Predict the response for test dataset
+y_pred = ann.predict(X_test)
+~~~
+
+
