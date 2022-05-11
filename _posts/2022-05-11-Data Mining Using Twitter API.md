@@ -151,7 +151,12 @@ df['Tweet'] = df['Tweet'].apply(remove_emojis)
 ~~~
 
 Here is a before and after image of the dataframe data that has been processed.
-![Before](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true) ![After](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
+
+## Before
+![Before](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true) 
+
+## After
+![After](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
 
 
 After we clean the emojis, we need to store the clean tweets from the dataframe. In this case, I will store it in Excel's form
