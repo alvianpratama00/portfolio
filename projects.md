@@ -14,7 +14,7 @@ Produced and implemented predictions in Jupyter Notebook based on the most profi
 ### StockX Data Visualization
 Analyzed transaction data and designed visualizations (clustering, forecasting) for future sales by using Tableau. [Repository Link](https://github.com/alvianpratama00/TableauDataVisualization_StockXDataContest2019) <br />
 
-### WalmartAnalysis_UsingPowerBI 
+### Walmart Customer and Branch Analysis
 Analyzed Walmart Customer and Branches (California, New York, Florida) and designed the visualization for the analysis using Power BI. [Repository Link](https://github.com/alvianpratama00/WalmartAnalysis_UsingPowerBI) <br />
 
 <br /> <br /> 
