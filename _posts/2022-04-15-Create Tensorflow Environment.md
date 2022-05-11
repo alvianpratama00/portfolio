@@ -6,7 +6,57 @@ tags: [Python, Tensorflow, Jupyter Notebook]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This is a quick tutorial to show you how to create tensorflow environment in Jupyter Notebook.  I strongly encourage you to install Anaconda before creating the tensorflow environment.
+
+First of all, open the Anaconda Prompt and run as administrator 
+![Admin](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/RunAdmin.png?raw=true)
+
+After that we need to create the tensorflow environment. In this case, I will name it "tf-env".
+
+## Create the environment
+~~~
+conda create -n tf-env tensorflow
+~~~
+
+After that we need to test whether the installation is good or not by activating the tensorflow.
+
+
+## Activate the environment
+~~~
+conda activate tf-env
+~~~
+
+Then we need to check if the tensorflow already installed or not by writing this code :
+~~~
+python
+import tensorflow as tf
+tf.__version__ #
+~~~
+
+This is the result when tensorflow is installed :
+![TF_Anaconda](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Tf_Installed.png?raw=true)
+
+After all of that, we can continue to the next step, which is creating a kernel to use tensorflow in Jupyter Notebook.
+Here is the code to activate the kernel :
+
+## Install the ipykernel
+~~~
+conda install -c anaconda ipykernel
+~~~
+
+## Activate the kernel
+~~~
+python -m ipykernel install --user --name tf-env --display-name "TensorFlow Environment"
+~~~
+
+Here is the result if the kernel was installed correctly.
+
+### Kernel
+![Kernel](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
+
+### Tensorflow in Jupyter Notebook
+![TF Test](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Test Notebook.png?raw=true)
+
 
 **Here is some bold text**
 
