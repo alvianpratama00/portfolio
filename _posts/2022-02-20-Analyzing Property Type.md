@@ -9,8 +9,8 @@ tags: [Python, Data Analytics, Jupyter Notebook]
 ---
 
 
-In this article, I will try to analyze the properties using 3 machine learning algorithms. This article will discuss the relationship between the facilities of a property
-that you want to offer to customers and discuss a system that will offer the most profitable property types using machine learning.
+**In this article, I will try to analyze the properties using 3 machine learning algorithms. This article will discuss the relationship between the facilities of a property
+that you want to offer to customers and discuss a system that will offer the most profitable property types using machine learning.**
 
 First of all, we need to import the library and the dataset that will be used in this project.
 
@@ -142,8 +142,7 @@ Here are some of them :
 ## Artificial Neural Network 
 ![ANN](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfAcc_ANN.png?raw=true)
 
-As we can see from the model, we can conclude that the best model that will be used for system that will offer the most profitable property types is Artificial Neural Network.
-That model produces 92% accuracy value, 82% recall value, 71% precision value and 76% f1-score value, which are better than the others.
+**As we can see from the model, we can conclude that the best model that will be used for system that will offer the most profitable property types is Artificial Neural Network.That model produces 92% accuracy value, 82% recall value, 71% precision value and 76% f1-score value, which are better than the others.**
 
 ## Repository Link : 
 [Analyze Property Type](https://github.com/alvianpratama00/ClassifyingPropertyType_UsingJupyterNotebook)
