@@ -109,7 +109,7 @@ Here are some pictures from the process of gathering the data.
 ### Saving into csv
 ![CSV](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Twitter_CSV.png?raw=true)
 
-**As you can see from the pictures, there are a lot of emojis that turn into characters that were saved in csv. Therefore, we need to clean the emojis so we can use the data properly. **
+**As you can see from the pictures, there are a lot of emojis that turn into characters that were saved in csv. Therefore, we need to clean the emojis so we can use the data properly.**
 
 In this case, i will turn the tweetes into dataframe and then remove the emojis from the dataframe. 
 Here are the codes to remove the emojis
