@@ -104,10 +104,10 @@ csv_file.close()
 Here are some pictures from the process of gathering the data.
 
 ### Gathering the data
-![Gather](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
+![Gather](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
 
 ### Saving into csv
-![CSV](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
+![CSV](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Twitter_CSV.png?raw=true)
 
 **As you can see from the pictures, there are a lot of emojis that turn into characters that were saved in csv. Therefore, we need to clean the emojis so we can use the data properly. **
 
@@ -150,13 +150,10 @@ def remove_emojis(data):
 df['Tweet'] = df['Tweet'].apply(remove_emojis)
 ~~~
 
-Here is a before and after image of the dataframe data that has been processed.
+Here is a picture of the dataframe data that has been processed.
 
-## Before
-![Before](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true) 
-
-## After
-![After](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true)
+## Cleaned dataframes
+![After](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/New_df.png?raw=true)
 
 
 After we clean the emojis, we need to store the clean tweets from the dataframe. In this case, I will store it in Excel's form
@@ -168,5 +165,5 @@ df.to_excel('Julian.xlsx')
 ~~~
 
 Here is the picture of the tweets that is stored in Excel's form
-![Excel](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Kernel.png?raw=true) 
+![Excel](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Excel_Twitter.png?raw=true) 
 
