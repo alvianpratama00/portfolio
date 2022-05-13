@@ -43,7 +43,7 @@ path = "input/breakhis/BreaKHis_v1/"
 ~~~
 
 ### Dataframe from dataset
-![df_image](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![df_image](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Dataframe_Img.png?raw=true)
 
 Next, we need to classify between the pictures to know which is benign and malignant cells. 
 
@@ -67,11 +67,11 @@ for i in tqdm(range(df.shape[0])):
 Here are some example pictures of benign and malignant cells. 
 
 ### Benign Cell
-![Benign](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Benign](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Benign.png?raw=true)
 
 
 ### Malignant cell
-![Malignant](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Malignant](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Malignant.png?raw=true)
 
 
 After that, we need to split the data for data training and data validation.  
@@ -116,11 +116,11 @@ After all of that, we need to check the model accuracy and model loss, which is 
 
 Here are the pictures of model accuracy and loss. 
 ### Model Accuracy
-![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Accuracy](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Acc_Plot.png?raw=true)
 
 
 ### Model Loss
-![Loss](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Loss](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Loss_Plot.png?raw=true)
 
 If you need more information regarding the model, you can add a few more codes to add more information.
 Here are the some code examples for adding information :  
@@ -134,7 +134,7 @@ y_pred = np.round(y_pred).astype(int)
 print(accuracy_score(Y_test, y_pred))
 ~~~
 
-![Acc_sk](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Acc_sk](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Acc_sk.png?raw=true)
 
 ## Create confusion matrix
 ~~~
@@ -152,7 +152,7 @@ plt.ylabel('True Labels')
 plt.show()
 ~~~
 
-![ConfMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![ConfMatrix](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ConfMatrix_Cancer.png?raw=true)
 
 
 ## Check precision, recall, f1-score
@@ -163,7 +163,7 @@ print('Precision : {}'.format(precision))
 print('Recall    : {}'.format(recall))
 print('F-score   : {}'.format(fscore))
 ~~~
-![Add_Value](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Gather_data.png?raw=true)
+![Add_Value](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Addinfo_sk.png?raw=true)
 
 {: .box-note}
 **Dataset Link:** [Breakhis Dataset](https://www.kaggle.com/ambarish/breakhis)
