@@ -5,7 +5,7 @@ subtitle: Analyze Data Using R Language
 cover-img: /assets/img/prediction.jpg
 thumbnail-img: /assets/img/heart.jpg
 share-img: /assets/img/prediction.jpg
-tags: [R Language, Data Analytics]
+tags: [Data Analytics, R Language]
 ---
 
 **In this article, I want to explore in the matter of predicting the heart disease using R Language. I want to know if there are variables 
