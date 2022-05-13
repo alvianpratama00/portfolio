@@ -6,3 +6,6 @@ comments: true
 ---
 
 
+**In this article we will discuss how to do image classification in Jupyter Notebook. We will create a classification using pictures from breast cells for predicting breast cancer disease.**
+
+
