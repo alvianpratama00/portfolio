@@ -163,7 +163,7 @@ print('Precision : {}'.format(precision))
 print('Recall    : {}'.format(recall))
 print('F-score   : {}'.format(fscore))
 ~~~
-![Add_Value](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/Addinfo_sk.png?raw=true)
+![Add_Value](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/AddInfo_sk.png?raw=true)
 
 {: .box-note}
 **Dataset Link:** [Breakhis Dataset](https://www.kaggle.com/ambarish/breakhis)
