@@ -5,7 +5,7 @@ subtitle: Analyze Property Using Jupyter Notebook
 cover-img: /assets/img/Property.jpg
 thumbnail-img: /assets/img/Property_Thumb.png
 share-img: /assets/img/Property.jpg
-tags: [Python, Data Analytics, Jupyter Notebook]
+tags: [Data Analytics, Jupyter Notebook, Python]
 ---
 
 
