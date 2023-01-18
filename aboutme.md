@@ -13,6 +13,16 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 
 
 
+### Junior Engineer 
+#### Shopee Indonesia | September 2022- December 2022
+
+- Working as a full stack developer using Go (backend) and React (frontend)
+
+- Create an online learning platform as a capstone project
+
+- Improved efficiency on creating the learning platform using Typescript combined with React
+<br />
+
 ### Laboratory Assistant 
 #### Universitas Multimedia Nusantara | 2019-2021
 
@@ -23,7 +33,7 @@ PowerPoint), basics statistics (correlation test, normalization test, regression
 <br />
 
 ### Web Developer 
-#### PT. Dinamika Makmur Sentosa | October 2021-April 2022
+#### PT. Dinamika Makmur Sentosa | October 2021 - April 2022
 
 - Created a website for various business flows to manage tires using PHP Native
 - Developed a systematic approach to organize and document the requirements of system
