@@ -49,19 +49,20 @@ Relevant coursework: Statistics, Data Mining and Forecasting, Project Management
 
 ## Technical Expertise 
 ### Programming Language
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" width="200" height="200" />  <img src = "https://www.svgrepo.com/show/303388/java-4-logo.svg" width="200" height="200" /> <img src = "https://static.cdnlogo.com/logos/m/10/mysql.svg" width="200" height="200" /> 
-
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" width="200" height="200" />
+- Golang
+- PHP
+- Python
+- Javascript
 
 <br /> 
 
 ### Framework
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/2560px-TensorFlow_logo.svg.png" width="200" height="200" />
+- Airflow
+- Spark
 
 <br /> 
 
 ### Tools
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/08/Microsoft_Word_logo_%282013-2019%29.png" width="200" height="200" />
-
-<img src = "https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png" width="200" height="200" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="200" height="200" />
-
+- Tableau
+- Power BI
+- Looker Studio
