@@ -17,7 +17,7 @@ Analyzed transaction data and designed visualizations (clustering, forecasting) 
 ### Walmart Customer and Branch Analysis
 Analyzed Walmart Customer and Branches (California, New York, Florida) and designed the visualization for the analysis using Power BI. ([Repository Link](https://github.com/alvianpratama00/WalmartAnalysis_UsingPowerBI)) <br />
 
-<br /> <br /> 
+<br />
 
 ## Website
 ### .in Online Shop
