@@ -17,8 +17,6 @@ Analyzed transaction data and designed visualizations (clustering, forecasting) 
 ### Walmart Customer and Branch Analysis
 Analyzed Walmart Customer and Branches (California, New York, Florida) and designed the visualization for the analysis using Power BI. ([Repository Link](https://github.com/alvianpratama00/WalmartAnalysis_UsingPowerBI)) 
 
-<br />
-
 ## Website
 ### .in Online Shop
 Created a simple online clothing store using HTML, CSS, and JavaScript as the front-end, PHP as the server-side, and MySQL as the database. Provided features such as catalogue and cart for customer. ([Repository Link](https://github.com/alvianpratama00/.inOnlineShop_WebProjectUsingPHP)) <br />
