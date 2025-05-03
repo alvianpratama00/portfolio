@@ -6,7 +6,7 @@ subtitle: Some interesting facts about me
 
 # Alvian Pratama
 
-A hardworking and motivated student that acquired some knowledge in Statistics, Data Analysis, and Business Management <br />
+A hardworking and motivated student that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
 
 ## Experiences <br />
 
@@ -41,7 +41,7 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 - Teached the basics of Ms. Office (Word, Excel,
   PowerPoint), basics statistics (correlation test, normalization test, regression test) using R Language, basics of MYSQL (Create, Insert, Modify) using Laragon, and basics of PHP Native (PHP, HTML, and CSS)
 - Participated in creating a test for the mid-test exam
-  <br />
+  <br /> <br />
 
 ## Education
 
@@ -49,7 +49,7 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 
 #### Universitas Multimedia Nusantara | 2018 - 2022
 
-Relevant coursework: Statistics, Data Mining and Forecasting, Project Management, Principle of Data Analytics <br /> <br /> <br />
+Relevant coursework: Statistics, Data Mining and Forecasting, Project Management, Principle of Data Analytics <br /> <br />
 
 ## Technical Expertise
 
