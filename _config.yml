@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Alvian Pratama
 
 # Your name to show in the footer
-author: Some Person
+author: Alvian Pratama
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,14 +51,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "alvianpratama.work@gmail.com"
+#  facebook: deanattali
+  github: alvianpratama00
+#  twitter: daattali
+#  reddit: yourname
+  linkedin: alvian-pratama-profile
+#  xing: yournameli"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "alvianpratama.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -128,7 +128,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "alvian, pratama,alvian pratama,alvianpratama"
 
 ######################################
 # --- Colours / background image --- #
