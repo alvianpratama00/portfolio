@@ -7,8 +7,6 @@ comments: true
 
 **In this article, we’ll discuss how to set up scheduled queries in BigQuery.**
 
-First of all, we need to import the libraries
-
 ## Create and Execute the Query
 
 Start by writing your query in the BigQuery editor and executing it to ensure it works correctly.
@@ -44,7 +42,3 @@ From the scheduled query details, you can perform a **backfill** if data was mis
 ## Conclusion
 
 Scheduled queries in BigQuery are a powerful feature that help automate and orchestrate repetitive tasks. They can save setup time and reduce costs, making your workflows more efficient and reliable.
-
-First, configure the schedule. In this example, I set the start date to July 14 at 3 AM, and the query will continue to run until manually stopped.
-
-![ScheduledBQ_Part3](https://github.com/alvianpratama00/portfolio/blob/master/assets/img/ScheduledBQ_Part3.png?raw=true)
