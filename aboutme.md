@@ -20,7 +20,7 @@ A hardworking and motivated individual with foundational knowledge in Statistics
 
 ### Junior Engineer
 
-#### Shopee Indonesia | September 2022- December 2022
+#### Shopee Indonesia | September 2022 - December 2022
 
 - Worked as a full stack developer using Go (backend) and React (frontend)
 - Created an online learning platform as a capstone project
@@ -36,7 +36,7 @@ A hardworking and motivated individual with foundational knowledge in Statistics
 
 ### Laboratory Assistant
 
-#### Universitas Multimedia Nusantara | June 2019- June 2021
+#### Universitas Multimedia Nusantara | June 2019 - June 2021
 
 - Teached the basics of Ms. Office (Word, Excel,
   PowerPoint), basics statistics (correlation test, normalization test, regression test) using R Language, basics of MYSQL (Create, Insert, Modify) using Laragon, and basics of PHP Native (PHP, HTML, and CSS)
