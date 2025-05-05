@@ -6,7 +6,7 @@ subtitle: Some interesting facts about me
 
 # Alvian Pratama
 
-A hardworking and motivated student that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
+A hardworking and motivated person that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
 
 ## Experiences <br />
 
@@ -22,8 +22,8 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 
 #### Shopee Indonesia | September 2022- December 2022
 
-- Working as a full stack developer using Go (backend) and React (frontend)
-- Create an online learning platform as a capstone project
+- Worked as a full stack developer using Go (backend) and React (frontend)
+- Created an online learning platform as a capstone project
 - Improved efficiency on creating the learning platform using Typescript combined with React
 
 ### Web Developer
