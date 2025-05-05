@@ -6,7 +6,7 @@ subtitle: Some interesting facts about me
 
 # Alvian Pratama
 
-A hardworking and motivated person that acquired some knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
+A hardworking and motivated individual with foundational knowledge in Statistics, Data Analysis, and Business Management <br /> <br />
 
 ## Experiences <br />
 
