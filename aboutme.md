@@ -15,7 +15,7 @@ A hardworking and motivated student that acquired some knowledge in Statistics, 
 #### ADA Indonesia | October 2023 - Present
 
 - Spearheaded the design and deployment of an integrated reporting solution in Looker Studio
-- Architected scalable ETL pipelines using Supermetrics connectors, Google BigQuery, and Looker Studio
+- Architected scalable ETL pipelines using Supermetrics connectors, Google Sheets and Google BigQuery
 - Collaborated with cross-functional teams across Southeast Asia to streamline weekly and monthly reporting processes
 
 ### Junior Engineer
