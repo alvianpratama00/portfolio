@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Use Scheduled Queries in BigQuery
+share-title: How to Use Scheduled Queries in BigQuery
 tags: [Scheduled Queries, BigQuery, SQL]
 comments: true
 ---
